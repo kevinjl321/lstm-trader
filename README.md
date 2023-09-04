@@ -1,6 +1,6 @@
 # LSTM Trader
 
-This project utilizes time series and LSTM models to perform predictive analysis on various stock shares to optimize trading decisions.
+This project utilizes LSTM networks, GRU, and time series analyses to perform predictive analysis on various stock shares to optimize trading decisions and provide an additional dimension of insight to standard moving averages and other commonly used indicators.
 
 Tutorials provided by datacamp were followed to complete this project:
 
